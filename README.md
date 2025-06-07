@@ -4,11 +4,6 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Development server
 
-To install the main node packages you need to run :
-```bash
-npm install
-```
-
 To start a local development server, run:
 
 ```bash
@@ -30,7 +25,7 @@ For a complete list of available schematics (such as `components`, `directives`,
 ```bash
 ng generate --help
 ```
-
+ 
 ## Building
 
 To build the project run:
